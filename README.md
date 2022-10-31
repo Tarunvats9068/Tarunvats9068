@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+<img src="https://holopin.io/api/user/board?user=tarunvats" alt="tarunvats9068" />
 [![@tarunvats's Holopin board](https://holopin.io/api/user/board?user=tarunvats)](https://holopin.io/@tarunvats)
 [![@tarunvats's Holopin board](https://holopin.me/tarunvats)](https://holopin.io/@tarunvats)
 <h3 align="left">Languages and Tools:</h3>
