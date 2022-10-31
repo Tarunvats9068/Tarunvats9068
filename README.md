@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunvats9068&label=Profile%20views&color=0e75b6&style=flat" alt="tarunvats9068" /> </p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunvats9068" alt="tarunvats9068" /></a> </p>
+<p align="left"> <a href="[![@tarunvats's Holopin board](https://holopin.me/tarunvats)](https://holopin.io/@tarunvats)"><img src="![@tarunvats's Holopin board](https://holopin.me/tarunvats)" alt="tarunvats9068" /></a> </p>
 
 - 📫 How to reach me **tarun989629@gmail.com**
 
